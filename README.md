@@ -1,5 +1,14 @@
 # Hi, I’m @ARJITTHAKUR
- I’m interested in Golang / JS / Rust
+ My Tech Stack includes
+ 
+ <i class="devicon-javascript-plain"></i>
+ <i class="devicon-go-original-wordmark"></i>
+ <i class="devicon-typescript-plain"></i>
+ <i class="devicon-linux-plain"></i>
+ <i class="devicon-react-original"></i>          
+ <i class="devicon-angularjs-plain"></i>
+ <i class="devicon-postgresql-plain"></i>
+                     
  I’m currently learning Rust
  I’m looking to collaborate on Open source project based on JS and Golang
 
