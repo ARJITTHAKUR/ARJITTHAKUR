@@ -1,14 +1,11 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 # Hi, I’m @ARJITTHAKUR
  My Tech Stack includes
  
- <i class="devicon-javascript-plain"></i>
- <i class="devicon-go-original-wordmark"></i>
- <i class="devicon-typescript-plain"></i>
- <i class="devicon-linux-plain"></i>
- <i class="devicon-react-original"></i>          
- <i class="devicon-angularjs-plain"></i>
- <i class="devicon-postgresql-plain"></i>
-                     
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50px" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50px" width="50px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50px" width="50px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px" width="50px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50px" width="50px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50px" width="50px"/>
+                              
  I’m currently learning Rust
  I’m looking to collaborate on Open source project based on JS and Golang
 
